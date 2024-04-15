@@ -1,6 +1,6 @@
 # Trabajo Práctico N°4 – React
 
-*** Se consumió una API a traves del metodo fetch. Api utilizada: Perros Pug: https://dog.ceo/api/breed/pug/images ***
+Se consumió una API a traves del metodo fetch. Api utilizada: Perros Pug: https://dog.ceo/api/breed/pug/images
 
 ## Detalles a tener en cuenta:
 * La aplicación debe contar con una sola página.
